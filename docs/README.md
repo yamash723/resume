@@ -1,12 +1,18 @@
 # 職務経歴書
 
-2022/03/17現在
+2022/03/17 現在。
 
 ## プロフィール
 
-山下 秀平 | Shuhei Yamashita
+|Key|Value|
+|:---|:---|
+|氏名|山下秀平 Shuhei Yamashita|
+|生年月日|1987年01月05日|
+|居住地|茨城県水戸市|
 
-現在茨城県水戸市在住
+- 
+
+## リンク
 
 |媒体|URL|
 |:---|:---|
@@ -22,59 +28,59 @@
 
 #### JavaScript / TypeScript
 
-- シンプルなVue/Nuxt.js等のモダンフレームワークでのアプリケーション開発
-  - ※直近はキャッチアップがおろそかになっていたのでリハビリ中
-- APIサーバーやバッチ等のNode.js環境用アプリケーション構築
+- API サーバーやバッチなどの Node.js環境用アプリケーション構築
+- シンプルな Vue/Nuxt.js などでのモダンフレームワークでのアプリケーション開発
+  - ※直近はキャッチアップがおろそかになっていたのでリハビリ中 JAVA
 
 #### Rust
 
+- 簡単なアプリケーションや crate の作成
 - 業務上での利用はないがプライベートではメインで使用
-- 簡単なアプリケーションやcrateの作成など
 
 #### C#
 
-- .NET FrameworkでのWebアプリケーションを開発
+- .NET Framework での Web アプリケーションを開発
 
 #### Go
 
-- 業務で簡単なCLIツール、バッチを作成
+- 業務で簡単な CLI ツール、バッチ作成
 
 #### Python
 
-- Jupyter Notebookでの簡単な分析業務を実施
+- Jupyter Notebook での簡単な分析業務対応
 
 #### Ruby
 
-- Ruby on RailsでのWebアプリケーション、RestAPIの開発
-  - ただし2.3系の頃のためかなりブランクあり
+- Ruby on Rails での Web アプリケーション、RestAPI の開発
+  - ただし使用していたのは 2.3 系の時代のためかなりブランクがある
 
 ### インフラ構築やミドルウェア管理
 
 - ネットワークやインフラ技術の基礎的な知識
-- クラウドプラットフォーム（主にAWS）の活用
-- MySQL等のRDBの設計、パフォーマンス改善、管理
-- GitHub Actions、CodePipeline等を用いたCI/CD環境の構築、メンテナンス
+- クラウドプラットフォーム（主に AWS）の活用
+- MySQL などの RDB の設計、パフォーマンス改善、管理
+- GitHub Actions、CodePipeline などを用いた CI/CD 環境の構築、メンテナンス
 
-### マネジメント等
+### マネジメントなど
 
-- C向けサービス、社内向けシステムのプロジェクトマネジメント
+- C 向けサービス、社内向けシステムのプロジェクトマネジメント
 - 採用フローの再構築。評価基準の策定やオンボーディング整備等
 - 小規模エンジニア組織の再構築、マネジメント、チームビルディング等
 - 技術レイヤー、アプリケーションをまたいでの問題解決、プロジェクトの推進
-- スクラム開発の導入
+- 基礎的なスクラムの理解、導入
 
 ### その他
 
-- TreasureData等を使用したデータ分析基盤の構築
-- .NET Frameworkを使用したWindows用ネイティブアプリケーションの開発
-- ECに関するドメイン知識
+- TreasureData などを使用したデータ分析基盤の構築
+- .NET Framework を使用した Windows 用ネイティブアプリケーションの開発
+- EC に関するドメイン知識
 
 ## 職務経歴詳細
 
 ### 株式会社SD（2019/06 - 2022/02）
 
 - チーム規模
-  - 最大30名ほど
+  - 最大 30 名ほど
 - 職位
   - エンジニアリングマネージャー
 - プロジェクト
@@ -83,21 +89,21 @@
   - データ分析基盤の運用改善、レポーティングサポート
     - AWS Glue、TreasureData、Tableau
   - システム全体リプレイスのプロジェクト
-    - プロジェクトマネジメント、及び技術選定&検証、インフラ設計、及び各チームの立ち上げサポート等
+    - プロジェクトマネジメント、および技術選定&検証、インフラ設計、および各チームの立ち上げサポートなど
       - TypeScript / Nuxt.js / Nest.js
       - PHP / Laravel
       - GraphQL / マイクロサービス / BFF
       - AWS EC2/ECS/BeanStalk/S3/CloudFront/Cognito/Lambda/RDS/CDK
-      - NewRelicやKarteの導入、運用サポート対応
+      - NewRelic や Karte の導入、運用サポート対応
 
 ### 株式会社OI(2017/08 - 2019/05)
 
 - チーム規模
-  - 4名
+  - 4 名
 - 職位
   - アプリケーションエンジニア
 - プロジェクト
-  - ECサイト、社内向け管理アプリケーション改修、運用
+  - EC サイト、社内向け管理アプリケーション改修、運用
     - C# / .NET Framework / PostgreSQL
   - 社内倉庫用ピッキングシステム構築
     - Vue / C# / .NET Framework
@@ -106,26 +112,31 @@
 ### 株式会社RC(2011/06 - 2017/07)
 
 - チーム規模
-  - エンジニア全15名程度、所属チーム5名程度
+  - エンジニア全 15 名程度、所属チーム 5 名程度
 - 職位
   - アプリケーションエンジニア
 - プロジェクト
-  - ECサイト、バックオフィス向け管理アプリケーションの改修、保守
-      - VB / C# / .NET Framework / Java / Spring Framework / Ruby / Ruby on Rails / AngularJS / memcached / MySQL 
-  - CI/CD、レビュー文化、VM導入、CLIツール作成などの開発環境改善
+  - EC サイト、バックオフィス向け管理アプリケーションの改修、保守
+      - Visual Basic / C# / .NET Framework
+      - Java / Spring Framework
+      - Ruby / Ruby on Rails
+      - JavaScript / AngularJS
+      - memcached / MySQL 
+  - CI/CD、レビュー文化、VM 導入、CLI ツール作成などの開発環境改善
       - Jenkins / GitBucket / KVM / Vagrant / Docker / Go / Ruby / Bash
   - 商品データ管理アプリケーションのリニューアルプロジェクトマネジメント
       - C# / .NET Framework / Java / Spring Framework / MySQL
-  - 在庫管理システムの構築、及び自動発注システムの構築
+  - 在庫管理システムの構築、および自動発注システムの構築
       - .NET Framework  / MySQL
   - 経営指標用データ分析基盤の構築とマーケティング部での分析文化醸成
       - Pentaho / Java / MySQL
   - 社内ネットワーク、オンプレミスサーバーの保守
+    - CentOS / Windows Server
   - ベトナムオフショア開発チームの立ち上げ
 
 ## 興味・関心
 
-どのような会社に興味・関心があるか
+どのような会社に興味・関心があるか。
 
 ### 事業
 
